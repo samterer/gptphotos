@@ -1,0 +1,71 @@
+[{
+	"name": "Education",
+	"icon": "🎓",
+	"status": "1"
+ },
+ {
+	"name": "Love",
+	"icon": "❤️",
+	"status": "1"
+ },
+ {
+	"name": "Health",
+	"icon": "🩺",
+	"status": "1"
+ },
+ {
+	"name": "Science",
+	"icon": "🔬",
+	"status": "1"
+ },
+ {
+	"name": "Fun",
+	"icon": "🤩",
+	"status": "1"
+ },
+ {
+	"name": "Social",
+	"icon": "👨‍👧‍👦",
+	"status": "1"
+ },
+ {
+	"name": "Business",
+	"icon": "💵",
+	"status": "1"
+ },
+ {
+	"name": "Lifestyle",
+	"icon": "🤑",
+	"status": "1"
+ },
+ {
+	"name": "Politics",
+	"icon": "🗣️",
+	"status": "1"
+ },
+ {
+	"name": "Sports",
+	"icon": "⚽️",
+	"status": "1"
+ },
+{
+	"name": "Entertainment",
+	"icon": "🎶",
+	"status": "1"
+ },
+{
+	"name": "Travel",
+	"icon": "✈️",
+	"status": "1"
+ },
+ {
+	"name": "Food",
+	"icon": "🍱",
+	"status": "1"
+ },
+ {
+	"name": "Religion",
+	"icon": "🧎‍♂️",
+	"status": "1"
+ }
+]
