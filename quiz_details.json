@@ -73,5 +73,42 @@
     "quiz_details": "Discover the latest developments in space exploration and the search for extraterrestrial life..",
 	"quiz_status": "1"
  }
+],"cat-edu":[
+    {
+	"cat_name": "cat-fun",
+	"quiz_description": "Memes",
+    "quiz_details": "Get the latest and funniest memes, or ask ChatAI to create one for you.",
+	"quiz_status": "1"
+ },
+ {
+	"cat_name": "cat-fun",
+	"quiz_description": "Trivia",
+    "quiz_details": "Test your knowledge on random topics with trivia questions.",
+	"quiz_status": "1"
+ },
+ {
+	"cat_name": "cat-fun",
+	"quiz_description": "Conspiracy Theories",
+    "quiz_details": "Explore the weirdest and wildest conspiracy theories out there.",
+	"quiz_status": "1"
+ },
+ {
+	"cat_name": "cat-fun",
+	"quiz_description": "Would You Rather",
+    "quiz_details": "Ask ChatGPT to generate a fun and challenging \"Would you rather?\" question.",
+	"quiz_status": "1"
+ },
+ {
+	"cat_name": "cat-fun",
+	"quiz_description": "Jokes",
+    "quiz_details": "Ask ChatAI to tell you a joke or generate a funny one-liner.",
+	"quiz_status": "1"
+ },
+ {
+	"cat_name": "cat-fun",
+	"quiz_description": "Horoscopes",
+    "quiz_details": "Get your daily horoscope and see what the stars have in store for you.",
+	"quiz_status": "1"
+ }
 ]
 }]
