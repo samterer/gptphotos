@@ -1,71 +1,85 @@
 [{
 	"name": "Education",
 	"icon": "🎓",
-	"status": "1"
+	"status": "1",
+    "id": "cat-edu"
  },
  {
 	"name": "Love",
 	"icon": "❤️",
-	"status": "1"
+	"status": "1",
+    "id": "cat-love"
  },
  {
 	"name": "Health",
 	"icon": "🩺",
-	"status": "1"
+	"status": "1",
+    "id": "cat-health"
  },
  {
 	"name": "Science",
 	"icon": "🔬",
-	"status": "1"
+	"status": "1",
+    "id": "cat-science"
  },
  {
 	"name": "Fun",
 	"icon": "🤩",
-	"status": "1"
+	"status": "1",
+    "id": "cat-fun"
  },
  {
 	"name": "Social",
 	"icon": "👨‍👧‍👦",
-	"status": "1"
+	"status": "1",
+    "id": "cat-social"
  },
  {
 	"name": "Business",
 	"icon": "💵",
-	"status": "1"
+	"status": "1",
+    "id": "cat-business"
  },
  {
 	"name": "Lifestyle",
 	"icon": "🤑",
-	"status": "1"
+	"status": "1",
+    "id": "cat-lifestyle"
  },
  {
 	"name": "Politics",
 	"icon": "🗣️",
-	"status": "1"
+	"status": "1",
+    "id": "cat-politics"
  },
  {
 	"name": "Sports",
 	"icon": "⚽️",
-	"status": "1"
+	"status": "1",
+    "id": "cat-sports"
  },
 {
 	"name": "Entertainment",
 	"icon": "🎶",
-	"status": "1"
+	"status": "1",
+    "id": "cat-entertainment"
  },
 {
 	"name": "Travel",
 	"icon": "✈️",
-	"status": "1"
+	"status": "1",
+    "id": "cat-travel"
  },
  {
 	"name": "Food",
 	"icon": "🍱",
-	"status": "1"
+	"status": "1",
+    "id": "cat-food"
  },
  {
 	"name": "Religion",
 	"icon": "🧎‍♂️",
-	"status": "1"
+	"status": "1",
+    "id": "cat-religion"
  }
 ]
